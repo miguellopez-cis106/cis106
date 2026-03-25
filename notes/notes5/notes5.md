@@ -73,3 +73,53 @@
   * `env`
   * `set`
   * `printenv`
+
+# What is a user defined variable?
+* A custom identifier created by a user to store temporary data within a specific shell session or script. 
+
+* **Example of User Defined Variables:**
+  * `name="bob"`
+  * `age=47`
+  * `email=1123@mail.com`
+  * `phone=123-333-4477`
+
+# What is the root directory?
+The top most directory in the file system hierarchy and is designated by a single forward. 
+
+# What does “Parent Directory” mean?
+The *Parent Directory* mean when is located above your current directory in the file system hierarchy. 
+
+# What does “Current working directory” mean?
+* **Current working directory** is where you are at the moment
+* Or it can be called **present working directory**
+
+# What is an absolute path? Include an example
+
+* **Absolute Path** - the location of a file starting at the root of the file system.
+
+# Example of Absolute Path:
+  * `/home/john/Downloads/song.mp3`
+
+# What is a relative path? Include an example? 
+* **Relative Path** - the location of a file starting from the current working directory or a directory that is located inside the current working directory.
+
+# Example of Relative Path:
+  * `Downloads/song.mp3`
+
+# What is the difference between “Your home directory” and “The home directory”?
+* **Your home directory** - is your personal user space for files and settings.
+* **Your home directory:**
+  * `~`
+  * `$HOME`
+  * `/home/yourname`
+* **The Home Directory:**
+* Stores your personal files, desktop files, documents, and user specific configurations 
+* Located at `/home/yourname`, although, 
+this can be configured somewhere else.
+* **System administrators**
+* **Other users' home directories**
+* **It contains:**
+  * `/home/user1`
+  * or `/home/user2`
+
+
